@@ -11,11 +11,6 @@
 To get a local copy up and running follow these simple example steps.
 
 
-## Live Demo
-
-[Live demo](https://vcovid-19-tracker.netlify.app/)
-
-Loom video- [watch](https://www.loom.com/share/b2dcada22a54415f9082a78937da754b?from_recorder=1&focus_title=1)
 
 ## Screenshots
 ![screenshot](./src/components/img/desktop1.PNG)
@@ -28,7 +23,7 @@ Loom video- [watch](https://www.loom.com/share/b2dcada22a54415f9082a78937da754b?
 
 To clone the repo run:
 ```
-git clone https://github.com/abdulhamiid/covid-19.git  
+git clone https://github.com/NahuelJ1/covid-statistics
 ```
 To access the cloned directory, run:
 ```
@@ -46,13 +41,6 @@ npm install
 
 Run ```npm start```
 
-## Author
-
-👤 **Abdulhamid**
-
-- GitHub: [abdulhamiid](https://github.com/abdulhamiid)
-- Twitter: [@abdulhamid_adio](https://twitter.com/abdulhamid_adio)
-- LinkedIn: [Adio Abdulhamid](https://linkedin.com/)
 
 ## 🤝 Contributing
 
